@@ -3,3 +3,4 @@ Liste des apprenants :
 - Amani
 - Anisse
 - Anthony
+- Vincent
